@@ -54,5 +54,5 @@ options:
 python3 ssh_brute.py -H TARGET_IP -u root -p toor -v
 python3 ssh_brute.py -H TARGET_IP -U users.txt -p password
 python3 ssh_brute.py -H TARGET_IP -u root -P passwords.txt -v
-python3 ssh_bruet.py -H TARGET_IP -U users.txt -P passwords.txt -v
+python3 ssh_brute.py -H TARGET_IP -U users.txt -P passwords.txt -v
 ```
